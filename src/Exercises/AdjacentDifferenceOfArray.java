@@ -17,6 +17,7 @@ public class AdjacentDifferenceOfArray {
             if (difference>maxDifference){
                 maxDifference = difference;
                 System.out.println("hi");
+                System.out.println();
             }
         }
         return maxDifference;
